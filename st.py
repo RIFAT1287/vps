@@ -3,9 +3,9 @@ from pyrogram.errors import MessageNotModified
 import os
 from utils import get_new_file_name, download_file, upload_file, download_progress_callback, upload_progress_callback
 
-API_KEY = "6260547707:AAG_EbURdx_ZXivks2LvFFl7UJygzsmxHYU"
+API_KEY = "6260547707:AAGge1ftIzB3a-GAUjLRd3EmurPeE9JVrOM"
 
-app = Client("my_bot", api_id=11421014, api_hash="9ac3fd02dccbde3435D6b58a5E430bcb", bot_token=API_KEY)
+app = Client("my_bot", api_id=28490129, api_hash="f244f8b975d989f818cefd27a38d771c", bot_token=API_KEY)
 user_names = {}
 user_thumbnails = {}
 user_seasons = {}
