@@ -3,7 +3,7 @@ from pyrogram.errors import MessageNotModified
 import os
 from utils import get_new_file_name, download_file, upload_file, download_progress_callback, upload_progress_callback
 
-API_KEY = "6260547707:AAGge1ftIzB3a-GAUjLRd3EmurPeE9JVrOM"
+API_KEY = "6517750473:AAFvsuuwixB_r_7ORYJxv6eBY8ZZ1v_pGe4"
 
 app = Client("my_bot", api_id=28490129, api_hash="f244f8b975d989f818cefd27a38d771c", bot_token=API_KEY)
 user_names = {}
